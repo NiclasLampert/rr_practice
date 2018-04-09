@@ -4,5 +4,15 @@ a repository to check how reproducible I can make my own research
 ## This is a heading
 this is the preamble of the overall plan
 
+## Introduction
+
+## Material and methods
+### Method 1
+
+## Results
+
+## Discussion
+
+
 ### another heading
 how to use markdown, describing
