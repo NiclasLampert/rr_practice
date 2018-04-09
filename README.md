@@ -1,2 +1,2 @@
-* How to fold a paper airplane
+# How to fold a paper airplane
 
