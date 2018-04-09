@@ -1,13 +1,19 @@
 # rr_practice
-a repository to check how reproducible I can make my own research
+a *repository* to check how reproducible I can make **my own research**
 
 ## This is a heading
 this is the preamble of the overall plan
 
 ## Introduction
-
-## Material and methods
-### Method 1
+how to use markdown, ***describing***
+## Methods
+### Sample preparation
+we took five specimen of *Panesthia angustipennis* and *Salganea esakii*
+### Workflow
+* insect collection
+* dissection
+* DNA extraction
+* sequencing
 
 ## Results
 
@@ -15,4 +21,4 @@ this is the preamble of the overall plan
 
 
 ### another heading
-how to use markdown, describing
+
